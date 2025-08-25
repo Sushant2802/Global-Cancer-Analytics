@@ -47,9 +47,7 @@ Using **statistical analysis & machine learning models**, we aim to:
 📂 Cancer-Care-Analytics
 │── 📜 README.md                 # Project documentation
 │── 📓 Cancer_data_Analysis.ipynb # Jupyter notebook (EDA + ML analysis)
-│── 📂 data
-│     └── global_cancer_patients_2015_2024.csv
-│── 📂 results                    # Graphs, charts, and outputs
+│── global_cancer_patients_2015_2024.csv
 ```
 
 ---
